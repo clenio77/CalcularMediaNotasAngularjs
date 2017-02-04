@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/../11_angular_js_HGECQ/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../11_angular_js_HGECQ/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/../11_angular_js_HGECQ/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
